@@ -1,0 +1,49 @@
+body{
+    height : 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap : 20px ;
+    padding : 0px;
+    margin : 0px ;
+}
+
+h1{
+    text-align: center;
+    font-size: 40px;
+}
+
+
+
+input{
+    border-radius: 5px;
+    height : 25px;
+}
+
+label{
+    font-size: 25px;
+}
+
+#form-data{
+    display: flex; 
+    flex-direction: column;
+    align-items: center ;
+    justify-content: center;
+    gap : 20px;
+}
+
+#forminputs{
+    display: flex ;
+    gap : 15px;
+    align-items: center;
+    justify-content: center;
+}
+
+button{
+    background-color: #122620;
+    color : white ;
+    padding : 10px; 
+    border-radius: 8px;
+}
+
